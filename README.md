@@ -5,7 +5,7 @@ Write down in order the component lifecycle hooks that are triggered during thes
 * An input property changes
 * State changes
 * Unmounting the component
-## Exercise
+## Programming Exercise
 1. Create a new Angular application from CLI.
 2. From the CLI, create a flat component class `Counter`, with inline template and style.
 3. Render this component in `AppComponent` and test if everything is working properly.
