@@ -1,4 +1,4 @@
-# MWA - Homework 11 - Angular 01
+# MWA - Angular 01
 ## Exercise
 1. Create a new Angular application from CLI.
 2. From the CLI, create a flat component class `Counter`, with inline template and style.
