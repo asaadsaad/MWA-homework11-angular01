@@ -1,4 +1,10 @@
 # MWA - Angular 01
+## Short Answer Exercise
+Write down in order the component lifecycle hooks that are triggered during these phases:
+* Mounting the component
+* An input property changes
+* State changes
+* Unmounting the component
 ## Exercise
 1. Create a new Angular application from CLI.
 2. From the CLI, create a flat component class `Counter`, with inline template and style.
