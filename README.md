@@ -6,4 +6,4 @@ Write down in order the component lifecycle hooks that are triggered during thes
 * State change
 * Unmounting the component
 ## Coding Practice Exercise
-In this exercise you would create two components `one` and `two` and pass an object from the first component to the second component through the parent. 
+Within the AppModule: you would create two components `one` and `two` and pass an object from the first component to the second component through the parent `AppComponent`. 
