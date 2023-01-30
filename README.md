@@ -6,5 +6,4 @@ Write down in order the component lifecycle hooks that are triggered during thes
 * State change
 * Unmounting the component
 ## Coding Practice Exercise
-1. Create a `ChildComponent` and pass an object to it as an input.
-2. Add an output to the component and listen to it from the parent component.
+In this exercise you would create two components `one` and `two` and pass an object from the first component to the second component through the parent. 
